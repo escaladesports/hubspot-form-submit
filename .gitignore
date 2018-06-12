@@ -27,6 +27,7 @@ dist-modules
 _optimize
 .babelrc
 .postcssrc
+.idea
 
 # Temporary
 temp

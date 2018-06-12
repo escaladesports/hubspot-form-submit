@@ -76,3 +76,7 @@ With browser:
 	})
 </script>
 ```
+
+Contributors:
+
+Alon Diamant (https://www.github.com/advance512) for Selectom (https://www.github.com/selectom)

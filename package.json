@@ -7,6 +7,12 @@
     "submit",
     "browser"
   ],
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  },
   "main": "dist/index.js",
   "browser": "dist-browser/index.js",
   "author": "Kennedy Rose <krose@escaladesports.com>",
@@ -29,6 +35,12 @@
   },
   "devDependencies": {
     "esca-scripts": "^0.12.0",
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0",
     "npm-run-all": "^4.1.2"
   },
   "dependencies": {
